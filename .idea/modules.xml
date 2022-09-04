@@ -7,6 +7,9 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/calories-tracker.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/calories-tracker.app.androidTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/calories-tracker.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/calories-tracker.app.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/calories-tracker.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/calories-tracker.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/calories-tracker.buildSrc.iml" filepath="$PROJECT_DIR$/.idea/modules/calories-tracker.buildSrc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/calories-tracker.buildSrc.main.iml" filepath="$PROJECT_DIR$/.idea/modules/calories-tracker.buildSrc.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/calories-tracker.buildSrc.test.iml" filepath="$PROJECT_DIR$/.idea/modules/calories-tracker.buildSrc.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/calories-tracker.core.iml" filepath="$PROJECT_DIR$/.idea/modules/core/calories-tracker.core.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/calories-tracker.core.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/core/calories-tracker.core.androidTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/calories-tracker.core.main.iml" filepath="$PROJECT_DIR$/.idea/modules/core/calories-tracker.core.main.iml" />
