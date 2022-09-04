@@ -16,6 +16,7 @@
               <args>
                 <arg>$MODULE_DIR$/../../../../tracker/tracker_presentation/build/intermediates/compile_r_class_jar/debug/R.jar</arg>
                 <arg>$MODULE_DIR$/../../../../core/build/intermediates/compile_library_classes_jar/debug/classes.jar</arg>
+                <arg>$MODULE_DIR$/../../../../core-ui/build/intermediates/compile_library_classes_jar/debug/classes.jar</arg>
                 <arg>$MODULE_DIR$/../../../../tracker/tracker_domain/build/intermediates/compile_library_classes_jar/debug/classes.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/e917cc803acecb4c63de61b001ee5ec2/transformed/ui-tooling-preview-1.2.1-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/1ba2a67e1d232ad4780acd66b66f2a80/transformed/hilt-navigation-compose-1.0.0-beta01-api.jar</arg>

@@ -16,6 +16,7 @@
               <args>
                 <arg>$MODULE_DIR$/../../../../tracker/tracker_presentation/build/intermediates/compile_library_classes_jar/debug/classes.jar</arg>
                 <arg>$MODULE_DIR$/../../../../core/build/intermediates/compile_library_classes_jar/debug/classes.jar</arg>
+                <arg>$MODULE_DIR$/../../../../core-ui/build/intermediates/compile_library_classes_jar/debug/classes.jar</arg>
                 <arg>$MODULE_DIR$/../../../../tracker/tracker_domain/build/intermediates/compile_library_classes_jar/debug/classes.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/mockwebserver/4.9.3/436df81ae01a2326b72d013783a782b595f173a5/mockwebserver-4.9.3.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/e917cc803acecb4c63de61b001ee5ec2/transformed/ui-tooling-preview-1.2.1-api.jar</arg>
